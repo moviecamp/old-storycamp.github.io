@@ -1,3 +1,8 @@
+---
+layout: post
+title: 什么是故事
+---
+
 ### 《编剧故事营》第二期第一课 什么是故事
 
 #### Previously on Story Camp Lecture 01
